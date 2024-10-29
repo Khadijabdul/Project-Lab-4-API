@@ -1,0 +1,11 @@
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/bin/Debug/net8.0/Project-Lab-4-API.Domain.deps.json
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/bin/Debug/net8.0/Project-Lab-4-API.Domain.dll
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/bin/Debug/net8.0/Project-Lab-4-API.Domain.pdb
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/Project-Lab-4-API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/Project-Lab-4-API.Domain.AssemblyInfoInputs.cache
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/Project-Lab-4-API.Domain.AssemblyInfo.cs
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/Project-Lab-4-API.Domain.csproj.CoreCompileInputs.cache
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/Project-Lab-4-API.Domain.dll
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/refint/Project-Lab-4-API.Domain.dll
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/Project-Lab-4-API.Domain.pdb
+/Users/khadija/Documents/Project-Lab-4-API/Project-Lab-4-API.Domain/obj/Debug/net8.0/ref/Project-Lab-4-API.Domain.dll
