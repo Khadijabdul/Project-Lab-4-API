@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project-Lab-4-API.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe163318ea7639c9c859b0d3a931e684927368b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project-Lab-4-API.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project-Lab-4-API.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
